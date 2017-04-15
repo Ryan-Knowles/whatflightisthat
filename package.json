@@ -1,0 +1,22 @@
+{
+  "name": "whatflight",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node bin/getFlights.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ryan-Knowles/whatflightisthat.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ryan-Knowles/whatflightisthat/issues"
+  },
+  "homepage": "https://github.com/Ryan-Knowles/whatflightisthat#readme",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
